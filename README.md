@@ -6,13 +6,13 @@ Bu repo, Vendora’nın **web tabanlı MVP sürümünü** içerir.
 ## 🎯 Projenin Amacı
 - Global alıcı ve tedarikçileri tek bir platformda buluşturmak
 - Ürün taleplerini merkezi ve şeffaf şekilde toplamak
-- Talep 
 - Platform üzerinden **komisyon bazlı gelir modeli** oluşturmak
 ## 👥 Kullanıcı Tipleri
 ### 🅰️ Alıcı (Buyer)
 - Firma hesabı ile kayıt olur
 - Ürün talebi oluşturur
 - Gelen teklifleri listeler ve karşılaştırır
+- Talep → teklif → ödeme sürecini platform içinde tutmak 
 - Bir teklifi seçer
 - Ödemeyi platform üzerinden yapar
 ### 🅱️ Tedarikçi (Supplier – Türkiye)
