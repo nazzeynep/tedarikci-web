@@ -1,12 +1,12 @@
 # Vendora – B2B Talep Bazlı Toptan Ticaret Platformu (MVP)
-Vendora, Türkiye merkezli tedarikçilerin;  
-yerel ve global alıcılardan gelen **ürün taleplerine teklif verdiği**,  
-**talep → teklif → ödeme** akışıyla çalışan bir **B2B marketplace** platformudur.
+Vendora, farklı ülkelerdeki tedarikçi ve alıcıları;  
+**talep bazlı teklif sistemi** ve **platform içi korumalı ödeme modeli**,  
+ile bir araya getiren global bir B2B toptan ticaret platformudur.
 Bu repo, Vendora’nın **web tabanlı MVP sürümünü** içerir.
 ## 🎯 Projenin Amacı
-- Alıcıların ürün ihtiyacını **tek noktadan** toplamak
-- Tedarikçilerin fiyat rekabetini **şeffaf ama kontrollü** hale getirmek
-- Tarafları platform dışına çıkmadan **güvenli ödeme** ile buluşturmak
+- Global alıcı ve tedarikçileri tek bir platformda buluşturmak
+- Ürün taleplerini merkezi ve şeffaf şekilde toplamak
+- Talep 
 - Platform üzerinden **komisyon bazlı gelir modeli** oluşturmak
 ## 👥 Kullanıcı Tipleri
 ### 🅰️ Alıcı (Buyer)
